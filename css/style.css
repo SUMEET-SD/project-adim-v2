@@ -1,0 +1,162 @@
+body{
+    background-color: floralwhite;
+    font-family: 'Noto Serif', serif;
+}
+
+#news{
+    background-color: rgba(240, 248, 255, 0.5);
+}
+
+#news .col-md-auto{
+    background-color: aliceblue;
+}
+
+#event {
+    background-color:azure;
+}
+
+#event .col {
+    background-color: rgba(230, 240, 240, 0.8);
+}
+
+#activity {
+    background-color: rgba(240, 248, 255, 0.5);
+}
+
+#activity .col {
+    background-color:aliceblue;
+}
+
+.dropdown-menu {
+    background-color: hsl(171, 66%, 94%);
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+.nav-link {
+    font-family: 'Roboto Slab', serif;
+}
+
+.bg-gray{
+    background-color: lightcyan;
+}
+
+.ltp{
+    background-color: rgba(245, 245, 220, 0.6);
+    
+}
+
+.rtp{
+    background-color: rgba(245, 245, 220, 0.6);
+    font-family: 'Roboto Slab', serif;
+}
+
+.ourself{
+    background-color:rgba(245, 238, 220, 0.7);
+    font-size:1.6rem;
+    font-style:oblique;
+    line-height: 2;
+    font-family: 'Lobster Two', cursive;
+}
+
+.lang-color{
+    background-color: lightcyan;
+}
+
+.vl{
+    border-right: 3px solid gray ;
+    height: 10rem;
+}
+
+#myBtn {
+    opacity: 0.4;
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 15px; /* Place the button at the bottom of the page */
+    right: 15px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    height: 45px;
+    width: 45px;
+  }
+  
+#myBtn:hover {
+    opacity: 0.8;
+}
+
+.bottom-link {
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+.bottom-link a{
+    color: rgba(0, 0, 0, 0.5);
+    font-family: 'Roboto Slab', serif;
+}
+
+.bottom-link a:hover{
+    color: rgba(0, 0, 0, 1);
+    font-weight: 500;
+    transition: ease 0.8s;
+}
+
+.logo{
+    width: 175px;
+    height: 175px;
+}
+
+.logo:hover {
+    transform: scale(1.3);
+    transition: ease-in-out 2s;
+}
+
+.heart{
+    color: hsl(0, 100%, 70%);
+}
+
+.heart:hover{
+    font-size: 1.2rem;
+    transition: 3s ease;
+}
+
+.up-bottom{
+    background-color:rgba(135, 206, 250, 0.35);
+}
+
+.bottom-color{
+    background-color: lightskyblue;
+}
+
+#message{
+    background-color: rgba(248, 248, 255, 0.719);
+}
+
+.modal-header{
+    background-color: lightblue;
+}
+
+.modal-body{
+    background-color: rgba(220, 248, 243, 0.6);
+}
+
+.modal-body input {
+    background-color: rgba(0, 255, 221, 0.04);
+}
+
+.modal-body textarea {
+    background-color: rgba(0, 255, 234, 0.04);
+}
+
+.modal-footer{
+    background-color: lightskyblue;
+}
+
+.footer-bottom{
+    font-family: 'Roboto Slab', serif;
+}
